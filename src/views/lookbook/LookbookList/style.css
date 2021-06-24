@@ -1,0 +1,15 @@
+img{
+    border-radius: 10px !important;
+}
+
+.ant-tag{
+    border-radius: 70px !important;
+}
+
+.ant-card{
+    background-color: transparent;
+}
+
+.ant-breadcrumb{
+    padding-bottom: 10px;
+}
